@@ -1,4 +1,5 @@
 # 🚗 Uber Rides Data Analysis – 2024
+![Gemini_Generated_Image_c9sr44c9sr44c9sr](https://github.com/user-attachments/assets/88e9f792-3056-4cc6-a164-90fed3ec7fa9)
 
 ## 📌 Project Overview
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on Uber ride data to understand patterns in **ride demand, pickup trends, and temporal dynamics**. The analysis leverages Python libraries like **Pandas, NumPy, Matplotlib,** and **Seaborn** for cleaning, visualization, and insights.
